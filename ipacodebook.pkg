@@ -1,0 +1,14 @@
+v 0.1
+d 'IPACODEBOOK': IPA Stata program to export codebook to excel
+d
+d KW: data management
+d KW: data quality
+d KW: data entry
+d
+d Requires: Stata version 17
+d
+d Distribution-Date: 20220225
+d
+d Authors: Innovations for Poverty Action
+d Support: researchsupport@poverty-action.org
+f ipacodebook.ado
